@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Thu Jun 29 08:28:59 EEST 2017
+2.base=C\:\\AndroidProjects\\MediaPlayer1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\AndroidProjects\\MediaPlayer1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\AndroidProjects\\MediaPlayer1\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=C\:\\AndroidProjects\\MediaPlayer1\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=C\:\\AndroidProjects\\MediaPlayer1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+5.base=C\:\\AndroidProjects\\MediaPlayer1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=C\:\\AndroidProjects\\MediaPlayer1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+1.set=ANDROID_RESOURCE
+2.file=C\:\\AndroidProjects\\MediaPlayer1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.base=C\:\\AndroidProjects\\MediaPlayer1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+3.file=C\:\\AndroidProjects\\MediaPlayer1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\imagine_dragons_radioactive.mp3
+3.set=ANDROID_RESOURCE
+1.base=C\:\\AndroidProjects\\MediaPlayer1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\AndroidProjects\\MediaPlayer1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.set=DEX
